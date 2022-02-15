@@ -22,7 +22,7 @@ title: Rafael Alves ITM
 email: ragomesal@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Seja bem-vindo ao meu site pessoal. 
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rafaelalvesitm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rafaelalvesitm
 github_username:  rafaelalvesitm
