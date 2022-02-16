@@ -46,7 +46,7 @@ social-network-links:
   twitter: rafaelalvesitm
   # patreon: DeanAttali
   linkedin: rafaelalvesitm
-  youtube: c/daattali
+  youtube: channel/UCaUVPwUwNKnQ5TwGsDZwRKQ
 #  medium: yourname
 #  reddit: yourname
 #  xing: yourname
@@ -55,15 +55,16 @@ social-network-links:
   instagram: rafaelalvesitm
 #  spotify: yourname
 #  telephone: +14159998888
-#  steam: deanat78
+#  steam: rafaelalvesitm
   twitch: rafaelalvesitm
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
-#  discord: invite/invite_code or users/userid 
+  ORCID: 0000-0002-3603-315X
+  google-scholar: swKME70AAAAJ # Google user numbers
+  discord: invite/TwfzVepT9R
+  lattes: "6950937359307635" # User number
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
