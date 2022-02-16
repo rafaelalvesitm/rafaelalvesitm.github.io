@@ -16,9 +16,8 @@ author: Rafael Alves
 navbar-links:
   Sobre: sobre
   Projetos:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Redes Sociais: redes
+    - Mestrado: mestrado
+    - Lives: lives
 
 # --- Logo --- #
 
@@ -205,7 +204,7 @@ footer-hover-col: "#0085A1"
 # --- Misc --- #
 
 # Ruby Date Format to show dates of posts
-date_format: "%B %-d, %Y"
+date_format: "%d/%m/%Y"
 
 # Facebook App ID
 #fb_app_id: ""

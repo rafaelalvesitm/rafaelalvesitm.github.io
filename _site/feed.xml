@@ -10,25 +10,18 @@
     
     
       <item>
-        <title>Sample blog post</title>
+        <title>Primeira postagem</title>
         <description>
-          
-          This is a demo post to show you how to write blog posts with markdown. I strongly encourage you to take 5 minutes to learn how to write in markdown - it’ll teach you how to transform regular text into bold/italics/headings/tables/etc. Here is some bold text Here is a secondary...
+          Toda aventura se inicia em algum lugar - 
+          Olá pessoal! Sejam bem-vindos ao meu site pessoal!
+
+Espero que vocês estejam bem aonde quer que vocês estejam (no tempo e no espaço).
+
+
         </description>
-        <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2020-02-28-test-markdown/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020-02-28-test-markdown/</guid>
-      </item>
-    
-      <item>
-        <title>Flake it till you make it</title>
-        <description>
-          Excerpt from Soulshaping by Jeff Brown - 
-          Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who...
-        </description>
-        <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2020-02-26-flake-it-till-you-make-it/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020-02-26-flake-it-till-you-make-it/</guid>
+        <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2022-02-16-primeira-postagem/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022-02-16-primeira-postagem/</guid>
       </item>
     
   </channel>
