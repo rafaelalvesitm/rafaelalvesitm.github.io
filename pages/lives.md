@@ -2,6 +2,7 @@
 layout: page
 title: Lives
 subtitle: 'Lives na Twitch'
+permalink: lives
 ---
 
 Desde que joguei "The Legend of Zelda: Ocarina of Time" pela primeira vez, jogar video-game se tornou uma das minhas paixões. Na twitch você pode me acompanhar jogando os mais variados jogos. Estou sempre interagindo com o chat e a sua participação será sempre bem vinda. Nos vemos no chat ou jogando juntos no Discord! 

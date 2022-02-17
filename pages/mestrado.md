@@ -2,6 +2,7 @@
 layout: page
 title: Mestrado
 subtitle: 'Fazenda inteligente: desenvolvimento de um gêmeo digital para um sistema de irrigação'
+permalink: mestrado
 ---
 
 ## Informações gerais:
