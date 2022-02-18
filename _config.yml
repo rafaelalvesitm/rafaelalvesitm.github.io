@@ -1,33 +1,17 @@
-# Welcome to Beautiful Jekyll!
-# This config file is meant for settings that affect your entire website. When you first
-# set up your website you should go through all these settings and edit them, but after
-# the initial set up you won't need to come back to this file often.
-
-# --- Required options --- #
-
-# Name of website
+# Website information
 title: In The Making
-
-# Your name to show in the footer
 author: Rafael Alves
 
-# --- List of links in the navigation bar --- #
-
+# List of links in the navigation bar
 navbar-links:
   Sobre: sobre
   Projetos:
     - Mestrado: mestrado
-    - Lives: lives
     - Tutoriais do Obsidian: obsidian
   Redes Sociais: redes-sociais
 
-# --- Logo --- #
-
-# Image to show in the navigation bar - works best with a square image
-# Remove this parameter if you don't want an image in the navbar
+# Logo
 avatar: "/assets/img/avatar-icon.png"
-
-# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
@@ -42,29 +26,29 @@ round-avatar: true
 social-network-links:
   email: "ragomesal@gmail.com"
   # rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  # facebook: deanattali
+  # facebook: yourname
   github: rafaelalvesitm
   twitter: rafaelalvesitm
-  # patreon: DeanAttali
+  # patreon: yourname
   linkedin: rafaelalvesitm
-  youtube: channel/UCaUVPwUwNKnQ5TwGsDZwRKQ
-#  medium: yourname
-#  reddit: yourname
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
+  # youtube: channel/UCaUVPwUwNKnQ5TwGsDZwRKQ
+  # medium: yourname
+  # reddit: yourname
+  # xing: yourname
+  # stackoverflow: yourname
+  # snapchat: yourname
   instagram: rafaelalvesitm
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: rafaelalvesitm
-  twitch: rafaelalvesitm
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
+  # spotify: yourname
+  # telephone: +XXXXXXXXXXX
+  # steam: rafaelalvesitm
+  # twitch: rafaelalvesitm
+  # yelp: yourname
+  # telegram: yourname
+  # calendly: yourname
+  # mastodon: instance.url/@username
   ORCID: 0000-0002-3603-315X
   google-scholar: swKME70AAAAJ # Google user numbers
-  discord: invite/TwfzVepT9R
+  # discord: invite/TwfzVepT9R
   lattes: "6950937359307635" # User ID number
 
 # If you want your website to generate an RSS feed, provide a description
@@ -82,7 +66,6 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "rafaelalvesitm.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
