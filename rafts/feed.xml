@@ -9,5 +9,23 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
     
+<<<<<<< HEAD
+=======
+      <item>
+        <title>Primeira postagem</title>
+        <description>
+          Toda aventura se inicia em algum lugar - 
+          Olá pessoal! Sejam bem-vindos ao meu site pessoal!
+
+Espero que vocês estejam bem aonde quer que vocês estejam (no tempo e no espaço).
+
+
+        </description>
+        <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2022-02-16-primeira-postagem/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022-02-16-primeira-postagem/</guid>
+      </item>
+    
+>>>>>>> fb6269a950fce49cabd1390b7baa885c9025fd21
   </channel>
 </rss>
