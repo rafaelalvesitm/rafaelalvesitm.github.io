@@ -5,10 +5,11 @@ author: Rafael Alves
 # List of links in the navigation bar
 navbar-links:
   Sobre: sobre
+  Redes Sociais: redes-sociais
   Projetos:
     - Mestrado: mestrado
     - Tutoriais do Obsidian: obsidian
-  Redes Sociais: redes-sociais
+    - Melhorias ao site: melhorias
 
 # Logo
 avatar: "/assets/img/avatar-icon.png"
