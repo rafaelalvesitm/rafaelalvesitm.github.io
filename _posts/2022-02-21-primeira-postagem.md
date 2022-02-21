@@ -3,6 +3,7 @@ layout: post
 title: Primeira postagem
 subtitle: Por que o nome In The Making? 
 tags: blog
+excerpt: Sem bem vindos ao meu site pessoal! Aqui nesta postagem eu vou contar para vocês a história por traz do nome do site e também as premissas que quero seguir na construção e edição do mesmo. 
 ---
 
 Olá pessoal, sejam em vindos a primeira postagem deste site/blog pessoal. Inicialmente vou explicar a escolha do nome do site. Eu tento todos os dias seguir o seguinte mantra: 
