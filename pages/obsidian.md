@@ -13,25 +13,9 @@ Nos dias atuais somos bombardeados por informações de todos os lados **(quem n
 
 > ## **Era necessário desaprender a tomar notas e passar a criar notas!E foi assim que eu conheci o Obsidian!**
 
-# A ferramenta
+---
 
-O Obsidian é uma ferramenta poderosa para a gestão da sua base de conhecimento. 
+## Em breve novas atualizações! 
 
-# Primeiros passos
-
-## Instalação
-
-[Cofre de exemplo]:{{site.url}}/download/obsidian.zip
-
-Aqui você vai conferir o passo a passo e tutoriais de como utilizar a ferramenta. Caso prefira, você pode utilizar o meu [Cofre de exemplo][Cofre de exemplo]. 
-
-## O básico
-
-## Funções intermediárias e plugins nativos
-
-## Funções avançadas e plugins não oficiais
-
-# Meu fluxo de trabalho
-
-# O que vem a seguir
+---
 
