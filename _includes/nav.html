@@ -29,14 +29,13 @@
     </ul>
   </div>
   
-  {% if site.avatar and page.show-avatar != false %}
-    <div class="avatar-container">
-      <div class="avatar-img-border">
-        <a href="{{ '' | absolute_url }}">
-          <img alt="In The Making avatar" class="rounded-circle" src="{{ site.avatar | relative_url }}" />
-        </a>
-      </div>
+  <div class="avatar-container">
+    <div class="avatar-img-border">
+      <a href="{{ '' | absolute_url }}">
+        <img alt="In The Making avatar" class="rounded-circle" src="{{ '/assets/img/avatar.png' | relative_url }}" />
+      </a>
     </div>
-  {% endif %}
+  </div>
+
 
 </nav>
