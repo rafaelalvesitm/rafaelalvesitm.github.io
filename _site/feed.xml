@@ -12,7 +12,6 @@
       <item>
         <title>Primeira postagem</title>
         <description>
-<<<<<<< HEAD
           Por que o nome In The Making? - 
           Olá pessoal, sejam em vindos a primeira postagem deste site/blog pessoal. Inicialmente vou explicar a escolha do nome do site. Eu tento todos os dias seguir o seguinte mantra: Hoje é um novo dia para aprender algo novo e fazer algo bom. Sendo assim In The Making simboliza o meu...
         </description>
@@ -22,38 +21,8 @@
       </item>
     
       <item>
-        <title>5 ferramentas para auxiliar a escrever seus textos científicos</title>
+        <title>Primeira postagem</title>
         <description>
-          Algumas das ferramentas que utilizo - 
-          Mendley
-
-Gerenciador de referências
-
-Overleaf
-
-Editor de texto em Latex
-
-Vosviewer
-
-Visualizador de redes bibliométricas
-
-Grammarly/Language Tool
-
-Revisão de texto
-
-Obsidian
-
-Editor de texto para tomar notas
-
-        </description>
-        <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2022-02-21-ferramentas-de-pesquisa-cient%C3%ADfica/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022-02-21-ferramentas-de-pesquisa-cient%C3%ADfica/</guid>
-      </item>
-    
-      <item>
-        <title>Como criei este site?</title>
-=======
           Toda aventura se inicia em algum lugar - 
           Olá pessoal! Sejam bem-vindos ao meu site pessoal!
 
@@ -64,51 +33,6 @@ Espero que vocês estejam bem aonde quer que vocês estejam (no tempo e no espa�
         <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/2022-02-16-primeira-postagem/</link>
         <guid isPermaLink="true">http://localhost:4000/2022-02-16-primeira-postagem/</guid>
-      </item>
-    
-      <item>
-        <title>Como criei este site</title>
->>>>>>> fb6269a950fce49cabd1390b7baa885c9025fd21
-        <description>
-          
-          Olá, sejam bem-vindos! Neste artigo eu vou contar para vocês como é que eu criei este site que vocês estão vendo. Então vem comigo!
-
-Background
-
-Ferramentas
-
-Aprendizado
-
-Mundaças
-
-Conclusão
-
-        </description>
-        <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2022-02-16-como-criei-este-site/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022-02-16-como-criei-este-site/</guid>
-      </item>
-    
-      <item>
-        <title>Sample blog post</title>
-        <description>
-          
-          This is a demo post to show you how to write blog posts with markdown. I strongly encourage you to take 5 minutes to learn how to write in markdown - it’ll teach you how to transform regular text into bold/italics/headings/tables/etc. Here is some bold text Here is a secondary...
-        </description>
-        <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2020-02-28-test-markdown/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020-02-28-test-markdown/</guid>
-      </item>
-    
-      <item>
-        <title>Flake it till you make it</title>
-        <description>
-          Excerpt from Soulshaping by Jeff Brown - 
-          Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who...
-        </description>
-        <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2020-02-26-flake-it-till-you-make-it/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020-02-26-flake-it-till-you-make-it/</guid>
       </item>
     
   </channel>
