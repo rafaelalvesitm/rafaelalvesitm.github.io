@@ -97,7 +97,7 @@ hr.small {
 ::selection {
   color: #fff;
   text-shadow: none;
-  background-color: SteelBlue}};
+  background-color: SteelBlue;
 }
 img::selection {
   color: #fff;
