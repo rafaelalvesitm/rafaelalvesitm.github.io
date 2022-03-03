@@ -5,84 +5,31 @@ subtitle: Conheça minhas redes sociais
 permalink: redes-sociais
 ---
 
-<div class="w-50 mx-auto" class="w-50 mx-auto">
+<div class="w-50 mx-auto">
     {%- if site.social-network-links.email -%}
-    <a class="btn btn-secondary btn-block btn-lg" href="mailto:{{ site.social-network-links.email }}" title="Email me">
+    <a class="btn btn-secondary btn-lg d-block my-1" href="mailto:{{ site.social-network-links.email }}" title="Email me">
         <i class="fas fa-envelope"></i>
         <span class="mx-1">Email</span>
     </a>
     {%- endif -%}
 
     {%- if site.social-network-links.linkedin -%}
-    <a class="btn btn-secondary btn-block btn-lg" href="https://linkedin.com/in/{{ site.social-network-links.linkedin }}"
+    <a class="btn btn-secondary d-block btn-lg my-1" href="https://linkedin.com/in/{{ site.social-network-links.linkedin }}"
         title="LinkedIn">
         <i class="fab fa-linkedin "></i>
         <span class="mx-1">LinkedIn</span>
     </a>
     {%- endif -%}
 
-    {%- if site.social-network-links.calendly -%}
-    <a class="btn btn-secondary btn-block btn-lg" href="https://calendly.com/{{ site.social-network-links.calendly }}"
-        title="Schedule a meeting with me">
-        <i class="fas fa-calendar-check  "></i>
-        <span class="mx-1">Schedule a meeting with me</span>
-    </a>
-    {%- endif -%}
-
-    {%- if site.social-network-links.facebook -%}
-    <a class="btn btn-secondary btn-block btn-lg" href="https://www.facebook.com/{{ site.social-network-links.facebook }}"
-        title="Facebook">
-        <i class="fab fa-facebook  "></i>
-        <span class="mx-1">Facebook</span>
-    </a>
-    {%- endif -%}
-
-    {%- if site.social-network-links.telegram -%}
-    <a class="btn btn-secondary btn-block btn-lg" href="https://t.me/{{ site.social-network-links.telegram }}" title="Telegram">
-        <i class="fab fa-telegram-plane  "></i>
-        <span class="mx-1">Telegram</span>
-    </a>
-    {%- endif -%}
-
     {%- if site.social-network-links.twitter -%}
-    <a class="btn btn-secondary btn-block btn-lg" href="https://twitter.com/{{ site.social-network-links.twitter }}" title="Twitter">
+    <a class="btn btn-secondary d-block btn-lg my-1" href="https://twitter.com/{{ site.social-network-links.twitter }}" title="Twitter">
         <i class="fab fa-twitter  "></i>
         <span class="mx-1">Twitter</span>
     </a>
     {%- endif -%}
 
-    {%- if site.social-network-links.reddit -%}
-    <a class="btn btn-secondary btn-block btn-lg" href="https://reddit.com/u/{{ site.social-network-links.reddit }}" title="Reddit">
-        <i class="fab fa-reddit  "></i>
-        <span class="mx-1">Reddit</span>
-    </a>
-    {%- endif -%}
-
-    {%- if site.social-network-links.xing -%}
-    <a class="btn btn-secondary btn-block btn-lg" href="https://www.xing.com/profile/{{ site.social-network-links.xing }}" title="Xing">
-        <i class="fab fa-xing"></i>
-        <span class="mx-1">Xing</span>
-    </a>
-    {%- endif -%}
-
-    {%- if site.social-network-links.stackoverflow -%}
-    <a class="btn btn-secondary btn-block btn-lg" href="https://stackoverflow.com/users/{{ site.social-network-links.stackoverflow }}"
-        title="StackOverflow">
-        <i class="fab fa-stack-overflow  "></i>
-        <span class="mx-1">StackOverflow</span>
-    </a>
-    {%- endif -%}
-
-    {%- if site.social-network-links.snapchat -%}
-    <a class="btn btn-secondary btn-block btn-lg" href="https://www.snapchat.com/add/{{ site.social-network-links.snapchat }}"
-        title="Snapchat">
-        <i class="fab fa-snapchat-ghost  "></i>
-        <span class="mx-1">Snapchat</span>
-    </a>
-    {%- endif -%}
-
     {%- if site.social-network-links.instagram -%}
-    <a class="btn btn-secondary btn-block btn-lg" href="https://www.instagram.com/{{ site.social-network-links.instagram }}"
+    <a class="btn btn-secondary d-block btn-lg my-1" href="https://www.instagram.com/{{ site.social-network-links.instagram }}"
         title="Instagram">
         <i class="fab fa-instagram  "></i>
         <span class="mx-1">Instagram</span>
@@ -90,21 +37,21 @@ permalink: redes-sociais
     {%- endif -%}
 
     {%- if site.social-network-links.github -%}
-    <a class="btn btn-secondary btn-block btn-lg" href="https://github.com/{{ site.social-network-links.github }}" title="GitHub">
+    <a class="btn btn-secondary d-block btn-lg my-1" href="https://github.com/{{ site.social-network-links.github }}" title="GitHub">
         <i class="fab fa-github  "></i>
         <span class="mx-1">GitHub</span>
     </a>
     {%- endif -%}
 
     {%- if site.social-network-links.ORCID -%}
-    <a class="btn btn-secondary btn-block btn-lg" href="https://orcid.org/{{ site.social-network-links.ORCID }}" title="ORCID">
+    <a class="btn btn-secondary d-block btn-lg my-1" href="https://orcid.org/{{ site.social-network-links.ORCID }}" title="ORCID">
         <i class="fab fa-orcid  "></i>
         <span class="mx-1">ORCID</span>
     </a>
     {%- endif -%}
 
     {%- if site.social-network-links.google-scholar -%}
-    <a class="btn btn-secondary btn-block btn-lg"
+    <a class="btn btn-secondary d-block btn-lg my-1"
         href="https://scholar.google.com/citations?user={{ site.social-network-links.google-scholar }}"
         title="Google Scholar">
         <i class="fa fa-graduation-cap  "></i>
@@ -113,88 +60,16 @@ permalink: redes-sociais
     {%- endif -%}
 
     {%- if site.social-network-links.lattes -%}
-    <a class="btn btn-secondary btn-block btn-lg" href="http://lattes.cnpq.br/{{ site.social-network-links.lattes }}" title="Lattes">
+    <a class="btn btn-secondary d-block btn-lg my-1" href="http://lattes.cnpq.br/{{ site.social-network-links.lattes }}" title="Lattes">
         <i class="ai ai-lattes"></i>
         <span class="mx-1">Lattes</span>
     </a>
-    {%- endif -%}
-
-    {%- if site.social-network-links.spotify -%}
-    <a class="btn btn-secondary btn-block btn-lg" href="https://open.spotify.com/user/{{ site.social-network-links.spotify }}"
-        title="Spotify">
-        <i class="fab fa-spotify  "></i>
-        <span class="mx-1">Spotify</span>
-    </a>
-    {%- endif -%}
-
-    {%- if site.social-network-links.telephone -%}
-    <a class="btn btn-secondary btn-block btn-lg" href="tel:{{ site.social-network-links.telephone }}" title="Phone">
-        <i class="fas fa-phone  "></i>
-        <span class="mx-1">Phone</span>
-    </a>
-    {%- endif -%}
-
-    {%- if site.social-network-links.steam -%}
-    <a class="btn btn-secondary btn-block btn-lg" href="https://steamcommunity.com/id/{{ site.social-network-links.steam }}"
-        title="Steam">
-        <i class="fab fa-steam"></i>
-        <span class="mx-1">Steam</span>
-    </a>
-    {%- endif -%}
-
-    {%- if site.social-network-links.twitch -%}
-    <a class="btn btn-secondary btn-block btn-lg" href="https://www.twitch.tv/{{ site.social-network-links.twitch }}" title="Twitch">
-        <i class="fab fa-twitch  "></i>
-        <span class="mx-1">Twitch</span>
-    </a>
-    {%- endif -%}
+    {%- endif -%}   
 
     {%- if site.social-network-links.youtube -%}
-    <a class="btn btn-secondary btn-block btn-lg" href="https://www.youtube.com/{{ site.social-network-links.youtube }}" title="YouTube">
+    <a class="btn btn-secondary d-block btn-lg my-1" href="https://www.youtube.com/{{ site.social-network-links.youtube }}" title="YouTube">
         <i class="fab fa-youtube  "></i>
         <span class="mx-1">YouTube</span>
-    </a>
-    {%- endif -%}
-
-    {%- if site.social-network-links.yelp -%}
-    <a class="btn btn-secondary btn-block btn-lg" href="https://{{ site.social-network-links.yelp }}.yelp.com" title="Yelp">
-        <i class="fab fa-yelp  "></i>
-        </span>
-    </a>
-    {%- endif -%}
-
-    {%- if site.social-network-links.mastodon -%}
-    <a class="btn btn-secondary btn-block btn-lg" rel="me" href="https://{{ site.social-network-links.mastodon }}" title="Mastodon">
-        <i class="fab fa-mastodon  "></i>
-        <span class="mx-1">Mastodon</span>
-    </a>
-    {%- endif -%}
-
-    {%- if site.social-network-links.patreon -%}
-    <a class="btn btn-secondary btn-block btn-lg" href="https://patreon.com/{{ site.social-network-links.patreon }}" title="Patreon">
-        <i class="fab fa-patreon  "></i>
-        <span class="mx-1">Patreon</span>
-    </a>
-    {%- endif -%}
-
-    {%- if site.social-network-links.medium -%}
-    <a class="btn btn-secondary btn-block btn-lg" href="https://medium.com/@{{ site.social-network-links.medium }}" title="Medium">
-        <i class="fab fa-medium  "></i>
-        <span class="mx-1">Medium</span>
-    </a>
-    {%- endif -%}
-
-    {%- if site.social-network-links.itchio -%}
-    <a class="btn btn-secondary btn-block btn-lg" href="https://{{ site.social-network-links.itchio }}.itch.io/" title="Itchio">
-        <i class="fab fa-itch-io"></i>
-        <span class="mx-1">Itchio</span>
-    </a>
-    {%- endif -%}
-
-    {%- if site.social-network-links.discord -%}
-    <a class="btn btn-secondary btn-block btn-lg" href="https://discord.com/{{ site.social-network-links.discord }}" title="Discord">
-        <i class="fab fa-discord  "></i>
-        <span class="mx-1">Discord</span>
     </a>
     {%- endif -%}
 </div>

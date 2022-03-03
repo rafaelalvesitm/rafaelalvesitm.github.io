@@ -6,12 +6,12 @@
     <span class="navbar-toggler-icon"></span>
   </button>
 
-  <div class="collapse navbar-collapse" id="main-navbar">
-    <ul class="navbar-nav ml-auto">
+  <div class="collapse navbar-collapse justify-content-end">
+    <ul class="navbar-nav ">
       {%- for link in site.navbar-links -%}
         {%- if link[1].first %}
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ link[0] }}</a>
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ link[0] }}</a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
               {%- for childlink in link[1] -%}
                 {%- for linkparts in childlink %}

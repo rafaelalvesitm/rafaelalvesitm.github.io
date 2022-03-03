@@ -12,7 +12,6 @@ body {
   color: #404040;
   position: relative;
   background-color: #FFFFFF;
-  
   overflow-wrap: break-word;
 }
 p {
@@ -54,7 +53,7 @@ blockquote p:first-child {
   margin-top: 0;
 }
 hr.small {
-  max-width: 6.25rem;
+  max-width: 30rem;
   margin: 1rem auto;
   border-width: 0.25rem;
   border-color: inherit;
@@ -76,12 +75,12 @@ hr.small {
 ::-moz-selection {
   color: #fff;
   text-shadow: none;
-  background-color: #0085A1;
+  background-color: #0085A1 ;
 }
 ::selection {
   color: #fff;
   text-shadow: none;
-  background-color: #0085A1;
+  background-color: #0085A1}};
 }
 img::selection {
   color: #fff;
@@ -135,7 +134,8 @@ img {
   line-height: 1.5;
   padding-top: 0.625rem;
   padding-bottom: 0.625rem;
-  font-size: 1.125rem;
+  padding-left: 0.625rem;
+  font-size: 1.5rem;
 }
 
 .navbar-custom .navbar-brand-logo {
@@ -364,7 +364,6 @@ footer {
   margin-top: 3.125rem;
   font-size: 0.875rem;
   background-color: #EAEAEA;
-  
 }
 
 footer p.text-muted {
