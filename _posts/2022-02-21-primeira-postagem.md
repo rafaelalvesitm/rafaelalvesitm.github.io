@@ -1,7 +1,8 @@
 ---
 layout: post
+last-updated: "2022-03-03"
 title: Primeira postagem
-subtitle: Por que o nome In The Making? 
+subtitle: Por que ITM? 
 tags: blog
 excerpt: Sem bem vindos ao meu site pessoal! Aqui nesta postagem eu vou contar para vocês a história por traz do nome do site e também as premissas que quero seguir na construção e edição do mesmo. 
 ---

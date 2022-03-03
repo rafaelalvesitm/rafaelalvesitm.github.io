@@ -16,6 +16,6 @@ Decidi criar este site para documentar minhas ideias e projetos e assim manter u
 
 ---
 
-> ## Todo dia é um bom dia para aprender algo novo e fazer algo bom.
+> ## Todo dia é um bom dia para ***aprender algo novo*** e ***fazer algo bom***.
 {: .text-center}
 ---

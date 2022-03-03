@@ -9,49 +9,62 @@ html {
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 1.125rem;
-  color: #404040;
   position: relative;
-  background-color: #FFFFFF;
   overflow-wrap: break-word;
 }
+
 p {
   line-height: 1.5;
   margin: 1.875rem 0;
 }
+
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
   line-height: 1.1;
 }
+
 h1 {
   font-size: 2.25rem;
 }
+
 h2 {
   font-size: 1.875rem;
 }
+
 h3 {
   font-size: 1.5rem;
 }
+
 h4 {
   font-size: 1.125rem;
 }
+
 h1, h2, h3, h4 {
   margin-top: 1.25rem;
 }
+
 a {
   color: #008AFF;
 }
+
 a:hover,
 a:focus {
-  color: #0085A1;
+  color: SteelBlue;
 }
+
 blockquote {
   color: #808080;
-  font-style: italic;
 }
+
+blockquote strong {
+  color: steelblue
+}
+
 blockquote p:first-child {
   margin-top: 0;
 }
+
 hr.small {
   max-width: 30rem;
   margin: 1rem auto;
@@ -75,12 +88,12 @@ hr.small {
 ::-moz-selection {
   color: #fff;
   text-shadow: none;
-  background-color: #0085A1 ;
+  background-color: SteelBlue ;
 }
 ::selection {
   color: #fff;
   text-shadow: none;
-  background-color: #0085A1}};
+  background-color: SteelBlue}};
 }
 img::selection {
   color: #fff;
@@ -116,7 +129,6 @@ img {
 
 .navbar-custom {
   background-color: #EAEAEA;
-  border-bottom: 1px solid #DDDDDD;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   -webkit-transition: padding .5s ease-in-out;
   -moz-transition: padding .5s ease-in-out;
@@ -294,7 +306,7 @@ img {
 .navbar-custom .navbar-nav .nav-link:focus,
 .navbar-custom .navbar-nav .dropdown-menu .dropdown-item:hover,
 .navbar-custom .navbar-nav .dropdown-menu .dropdown-item:focus {
-  color: #0085A1;
+  color: SteelBlue;
 }
 
 .navbar-custom .avatar-container {
@@ -317,18 +329,15 @@ img {
 .navbar-custom .avatar-container .avatar-img-border {
   width: 100%;
   margin-left: -50%;
-  
-    border-radius: 50%;
-    box-shadow: 0 0 0.5rem rgba(0, 0, 0, .8);
-    -webkit-box-shadow: 0 0 0.3125rem rgba(0, 0, 0, .8);
-    -moz-box-shadow: 0 0 0.5rem rgba(0, 0, 0, .8);
+  border-radius: 50%;
+  box-shadow: 0 0 0.5rem rgba(0, 0, 0, .8);
+  -webkit-box-shadow: 0 0 0.3125rem rgba(0, 0, 0, .8);
+  -moz-box-shadow: 0 0 0.5rem rgba(0, 0, 0, .8);
   
 }
 .navbar-custom .avatar-container .avatar-img {
   width: 100%;
-  
-    border-radius: 50%;
-  
+  border-radius: 50%;
   display: block;
 }
 
@@ -344,11 +353,9 @@ img {
 
   .navbar-custom.top-nav-regular .avatar-container .avatar-img-border {
     width: 100%;
-    
     box-shadow: 1px 1px 2px rgba(0, 0, 0, .8);
     -webkit-box-shadow: 1px 1px 2px rgba(0, 0, 0, .8);
     -moz-box-shadow: 1px 1px 2px rgba(0, 0, 0, .8);
-    
   }
 
   .navbar-custom.top-nav-regular .avatar-container .avatar-img {
@@ -359,15 +366,12 @@ img {
 /* --- Footer --- */
 
 footer {
-  padding: 1.875rem 0;
-  border-top: 1px #EAEAEA solid;
-  margin-top: 3.125rem;
-  font-size: 0.875rem;
+  padding: 1rem 0;
   background-color: #EAEAEA;
 }
 
-footer p.text-muted {
-  color: #777777 !important;
+footer p {
+  margin: 1rem 0;
 }
 
 footer a {
@@ -376,43 +380,7 @@ footer a {
 
 footer a:hover,
 footer a:focus {
-  color: #0085A1;
-}
-
-footer .list-inline {
-  margin: 0;
-  padding: 0;
-  margin-bottom: 1.875rem;
-}
-footer .copyright {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  text-align: center;
-  margin-bottom: 0;
-  margin-top: 0;
-}
-footer .theme-by {
-  text-align: center;
-  margin: 0.625rem 0 0;
-}
-footer .footer-custom-content {
-  text-align: center;
-  margin-bottom: 0.9375rem;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-}
-
-@media (min-width: 768px) {
-  footer {
-    padding: 3.125rem 0;
-  }
-  footer .footer-links {
-    font-size: 1.125rem;
-  }
-  footer .copyright {
-    font-size: 1rem;
-  }
-  footer .footer-custom-content {
-    font-size: 1rem;
-  }
+  color: SteelBlue;
 }
 
 /* --- Post preview (feed) --- */
@@ -442,7 +410,7 @@ footer .footer-custom-content {
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
-  color: #0085A1;
+  color: SteelBlue;
 }
 
 .post-preview .post-title {
@@ -789,8 +757,8 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 .pagination .page-item .page-link:hover,
 .pagination .page-item .page-link:focus {
   color: #FFF;
-  border: 1px solid #0085A1;
-  background-color: #0085A1;
+  border: 1px solid SteelBlue;
+  background-color: SteelBlue;
 }
 
 /* --- Tables --- */
@@ -800,7 +768,6 @@ table {
 }
 table tr {
   border-top: 1px solid #cccccc;
-  background-color: #ffffff;
   margin: 0;
   padding: 0;
 }
