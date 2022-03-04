@@ -6,8 +6,5 @@ _site/
 .bundle/
 vendor/
 
-# Notes graph metadata
-_includes/notes_graph.json
-
 # Obsidian config
 .obsidian/
