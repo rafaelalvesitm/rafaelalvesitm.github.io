@@ -91,7 +91,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-last-modified-at
-  
+
 whitelist:
   - bidirectional_links_generator
   - embed_tweets
@@ -100,3 +100,4 @@ whitelist:
   - open_external_links_in_new_tab
 
 language: pt-BR
+
