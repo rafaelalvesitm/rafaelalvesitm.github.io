@@ -6,8 +6,8 @@
     <span class="navbar-toggler-icon"></span>
   </button>
 
-  <div class="collapse navbar-collapse justify-content-end">
-    <ul class="navbar-nav ">
+  <div class="collapse navbar-collapse justify-content-end" id="main-navbar">
+    <ul class="navbar-nav">
       {%- for link in site.navbar-links -%}
         {%- if link[1].first %}
           <li class="nav-item dropdown">

@@ -1,3 +1,7 @@
+---
+layout: null
+---
+
 @import url("pygment_highlights.css");
 
 /* --- General --- */
@@ -45,7 +49,7 @@ h1, h2, h3, h4 {
 }
 
 a {
-  color: #008AFF;
+  color: black;
 }
 
 a:hover,
@@ -54,7 +58,7 @@ a:focus {
 }
 
 blockquote {
-  color: #808080;
+  color: grey;
 }
 
 blockquote strong {
@@ -111,18 +115,6 @@ img {
 .linked-section {
   padding-top: 3.75rem;
   margin-top: -1.5625rem;
-}
-
-/* Comments */
-
-.disqus-comments {
-  margin-top: 1.875rem;
-}
-
-@media (min-width: 768px) {
-  .disqus-comments {
-    margin-top: 2.5rem;
-  }
 }
 
 /* --- Navbar --- */
@@ -205,7 +197,7 @@ img {
 }
 
 .navbar-custom .navbar-toggler[aria-expanded="true"] {
-  background-color: rgba(0, 0, 0, 0.2);
+  background-color: black;
 }
 
 .dropdown-toggle::after {
@@ -366,6 +358,7 @@ img {
 /* --- Footer --- */
 
 footer {
+  margin-top: 30px;
   padding: 1rem 0;
   background-color: #EAEAEA;
 }
@@ -871,8 +864,8 @@ pre {
 /* --- Social media sharing section --- */
 
 #social-share {
-  margin-bottom: 1 rem;
-  margin-top: 1 rem;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
   text-align: center;
 }
 
@@ -931,7 +924,7 @@ pre {
 }
 
 .blog-post hr {
-  max-width: 25%;
+  max-width: 100%;
   border-width: 0.25rem;
   border-radius: 0.1875rem;
   border-color: #808080;
@@ -942,6 +935,7 @@ pre {
   margin: 0 0 1.25rem;
   font-size: 1.1rem;
   border-left: 0.3125rem solid #eee;
+  font-weight: bold;
 }
 
 .blog-post blockquote p:last-child {
@@ -951,4 +945,10 @@ pre {
 .center {
   display: block;
   margin: 0 auto;
+}
+
+
+/* --- Custom additions --- */
+.text-justify {
+  text-align: justify;
 }

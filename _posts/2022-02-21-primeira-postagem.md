@@ -35,4 +35,6 @@ Este site está construido com as seguintes premissas:
 
     Este site foi construido com o meu aprendizado em programação e utilizando o [Jekyll](https://jekyllrb.com/), o tema [Beatiful Jekyll](https://github.com/daattali/beautiful-jekyll) e o [GitHub Pages](https://pages.github.com/). Não faz ideia do que são esses termos? Não tem problema nenhum! Você pode construir o seu próprio site utilizando outras ferramentas. Aqui eu tento me desafiar a criar um site que utilize todos os conceitos que eu aprendi ao longo da minha jornada. 
 
+---
+
 Espero que o conteúdo que disponibilizarei aqui seja de interesse e utilizada para vocês. Nos vemos na próxima postagem!.
