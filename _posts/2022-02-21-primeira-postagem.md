@@ -7,11 +7,11 @@ tags: blog
 excerpt: Sem bem vindos ao meu site pessoal! Aqui nesta postagem eu vou contar para vocês a história por traz do nome do site e também as premissas que quero seguir na construção e edição do mesmo. 
 ---
 
-Olá pessoal, sejam em vindos a primeira postagem deste site/blog pessoal. Inicialmente vou explicar a escolha do nome do site. Eu tento todos os dias seguir o seguinte mantra: 
+Olá pessoal, sejam em vindos a primeira postagem deste site/blog pessoal. Inicialmente vou explicar o motivo por trás da criação deste site. Eu tento todos os dias seguir o seguinte mantra: 
 
 > Hoje é um novo dia para aprender algo novo e fazer algo bom. 
 
-Sendo assim **In The Making** simboliza o meu estado de constante aprendizado. É uma forma que eu tenho de me manter motivado a aprender coisas novas todos os dias e a sempre tentar fazer algo útil para min, as pessoas que me cercam e a sociedade como um todo. Aqui neste site eu espero poder compartilhar as minhas ideias com os leitores a fim de pode ajuda-los de alguma forma. 
+Sendo assim este site simboliza o meu estado de constante aprendizado. É uma forma que eu tenho de me manter motivado a aprender coisas novas todos os dias e a sempre tentar fazer algo útil para min, as pessoas que me cercam e a sociedade como um todo. Aqui neste site eu espero poder compartilhar as minhas ideias com os leitores a fim de pode ajuda-los de alguma forma. 
 
 Este site está construido com as seguintes premissas: 
 
