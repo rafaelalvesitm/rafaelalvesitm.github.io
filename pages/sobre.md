@@ -15,6 +15,7 @@ Eu já comecei muitos projetos e terminei quase nenhum. Todos eles me ensinaram 
 Decidi criar este site para documentar minhas ideias e projetos e assim manter um registro das minhas atividades ao longo do tempo. Espero poder contribuir de forma positiva para os leitores que aqui passarem.
 
 ---
-> ## Todo dia é um bom dia para aprender algo novo e fazer algo bom.
+
+> ## Todo dia é um bom dia para ***aprender algo novo*** e ***fazer algo bom***.
 {: .text-center}
 ---

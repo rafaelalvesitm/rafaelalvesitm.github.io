@@ -1,7 +1,8 @@
 ---
 layout: post
+last-updated: "2022-03-03"
 title: Primeira postagem
-subtitle: Por que usar um site pessoal?
+subtitle: Por que ITM? 
 tags: blog
 excerpt: Sem bem vindos ao meu site pessoal! Aqui nesta postagem eu vou contar para vocês a história por traz do nome do site e também as premissas que quero seguir na construção e edição do mesmo. 
 ---
@@ -33,5 +34,7 @@ Este site está construido com as seguintes premissas:
 5. **Construido com o meu aprendizado**
 
     Este site foi construido com o meu aprendizado em programação e utilizando o [Jekyll](https://jekyllrb.com/), o tema [Beatiful Jekyll](https://github.com/daattali/beautiful-jekyll) e o [GitHub Pages](https://pages.github.com/). Não faz ideia do que são esses termos? Não tem problema nenhum! Você pode construir o seu próprio site utilizando outras ferramentas. Aqui eu tento me desafiar a criar um site que utilize todos os conceitos que eu aprendi ao longo da minha jornada. 
+
+---
 
 Espero que o conteúdo que disponibilizarei aqui seja de interesse e utilizada para vocês. Nos vemos na próxima postagem!.

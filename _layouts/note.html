@@ -1,0 +1,27 @@
+---
+layout: base
+---
+
+{% include header.html type="post" %}
+
+<div class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
+  <div class="row text-justify">
+    <div class="{% if page.full-width %} col {% else %} col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 {% endif %}">
+
+      <article>
+        <div id="notes-entry-container">
+            {{ content }}
+        </div>
+      </article>
+
+      <hr>
+
+      <h1 class="text-center">Navegue pela floresta</h1>
+
+      {% include notes_graph.html %}
+
+      {% include link-previews.html wrapperQuerySelector="content" %}
+
+    </div>
+  </div>
+</div>
