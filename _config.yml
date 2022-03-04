@@ -8,6 +8,8 @@ author: Rafael Alves
 navbar-links:
   Sobre: sobre
   Redes Sociais: redes-sociais
+  Blog: blog
+  Floresta: floresta
   Projetos:
     - Mestrado: mestrado
     - Tutoriais do Obsidian: obsidian
@@ -43,11 +45,16 @@ date_format: "%d/%m/%Y"
 timezone: "America/Sao_Paulo"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: /blog/:title/
 paginate: 5
 
 kramdown:
   input: GFM
+
+collections:
+  notes:
+    output: true
+    permalink: /:slug
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
@@ -60,9 +67,15 @@ defaults:
       social-share: true 
   -
     scope:
-      path: "" # any file that's not a post will be a "page" layout by default
+      path: ""
     values:
       layout: "page"
+  -
+    scope:
+      path: "_notes/**/*.md"
+    values:
+      layout: "note"
+      permalink: /floresta/:title
 
 # Exclude these files from production site
 exclude:
@@ -71,8 +84,12 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
+include:
+  - pages
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-last-modified-at
 
 language: pt-BR
