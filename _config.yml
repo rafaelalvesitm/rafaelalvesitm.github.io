@@ -91,18 +91,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-last-modified-at
-  - bidirectional_links_generator
-  - embed_tweets
-  - empty_front_matter_note_injector
-  - markdown-highlighter
-  - open_external_links_in_new_tab
-
-whitelist:
-  - bidirectional_links_generator
-  - embed_tweets
-  - empty_front_matter_note_injector
-  - markdown-highlighter
-  - open_external_links_in_new_tab
 
 language: pt-BR
 
