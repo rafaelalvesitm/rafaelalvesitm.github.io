@@ -8,9 +8,8 @@ author: Rafael Alves
 navbar-links:
   Sobre: sobre
   Redes Sociais: redes-sociais
-  Blog: blog
-  Floresta: floresta
   Projetos:
+    - Floresta: floresta
     - Mestrado: mestrado
     - Tutoriais do Obsidian: obsidian
     - Melhorias ao site: melhorias
@@ -45,7 +44,7 @@ date_format: "%d/%m/%Y"
 timezone: "America/Sao_Paulo"
 markdown: kramdown
 highlighter: rouge
-permalink: /blog/:title/
+permalink: /:title/
 paginate: 5
 
 kramdown:
