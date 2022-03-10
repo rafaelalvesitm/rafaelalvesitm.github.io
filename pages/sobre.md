@@ -12,7 +12,7 @@ Sou mestre em egenharia mecânica e doutorando em engenharia elétrica no [Centr
 
 Eu já comecei muitos projetos e terminei quase nenhum. Todos eles me ensinaram algo novo e relevante para que eu esteja onde estou hoje. Já fiz transmissões ao vivo na [twitch](https://www.twitch.tv/rafaelalvesitm) e fui co-apresentador do podcast [Ioiocast](https://anchor.fm/ioiocast).
 
-Decidi criar este site para documentar minhas ideias e projetos e assim manter um registro das minhas atividades ao longo do tempo. Espero poder contribuir de forma positiva para os leitores que aqui passarem.
+Decidi criar este site para documentar minhas ideias e projetos e assim manter um registro das minhas atividades ao longo do tempo. Espero poder contribuir de forma positiva para os leitores que aqui passarem. Para saber de onde as minhas ideias surgem acompanhem a minha [floresta de ideias](floresta). E lembrem-se: 
 
 ---
 

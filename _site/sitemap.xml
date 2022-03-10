@@ -2,11 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/floresta/Floresta-de-ideias</loc>
-<lastmod>2022-03-10T14:16:21+00:00</lastmod>
+<lastmod>2022-03-10T15:02:11+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/floresta/Mapa-principal</loc>
-<lastmod>2022-03-10T14:26:01+00:00</lastmod>
+<lastmod>2022-03-10T14:37:13+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/floresta/Mapa-sobre-tomar-notas</loc>
+<lastmod>2022-03-10T14:39:01+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/primeira-postagem/</loc>
@@ -22,7 +26,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/melhorias</loc>
-<lastmod>2022-03-08T11:09:49+00:00</lastmod>
+<lastmod>2022-03-10T14:43:32+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/mestrado</loc>
@@ -38,7 +42,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/sobre</loc>
-<lastmod>2022-03-08T11:05:01+00:00</lastmod>
+<lastmod>2022-03-10T14:44:59+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/tags/</loc>
