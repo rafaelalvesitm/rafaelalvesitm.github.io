@@ -1,0 +1,14 @@
+{% if page.backlinks.size > 0 %}
+{% for backlink in page.backlinks %}
+<div class="card bg-light">
+    <div class="card-header"><a href="{{ site.baseurl }}{{ backlink.url }}">{{backlink.title }}</a></div>
+    <div class="card-body">
+        <p class="my-0 py-0">{{ backlink.excerpt | strip_html | truncatewords: 20 }}</p>
+    </div>
+</div>
+{% endfor %}
+{% else %}
+<div>
+    <p> Nenhuma nota menciona esta nota.</p>
+</div>
+{% endif %}
