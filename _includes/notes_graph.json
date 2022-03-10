@@ -1,1 +1,186 @@
-{"edges":[{"source":"229983816929392016650836544852","target":"3449292428137996330543396"},{"source":"105653098726240450701","target":"229983816929392016650836544852"}],"nodes":[{"id":"3449292428137996330543396","path":"/floresta/Floresta-de-ideias","label":"Floresta de ideias"},{"id":"105653098726240450701","path":"/floresta/Mapa-principal","label":"Mapa principal"},{"id":"229983816929392016650836544852","path":"/floresta/Mapa-sobre-tomar-notas","label":"Mapa sobre tomar notas"}]}
+{
+    "edges": [
+        {
+            "source": "1570137287",
+            "target": "77324695961562709206215"
+        },
+        {
+            "source": "1570137287",
+            "target": "284800224663625767126802139753040815303"
+        },
+        {
+            "source": "1570137287",
+            "target": "505279871103820855055123998436125387549287623"
+        },
+        {
+            "source": "13906241951604335815797416765335741372",
+            "target": "41170370762284"
+        },
+        {
+            "source": "1570137287",
+            "target": "2546142928029635814599"
+        },
+        {
+            "source": "229983816929392016650836544852",
+            "target": "3449292428137996330543396"
+        },
+        {
+            "source": "1570137287",
+            "target": "352230524392847223778796624145708983495"
+        },
+        {
+            "source": "1570137287",
+            "target": "36145153850674430910591786363875543176939675365385415"
+        },
+        {
+            "source": "1570137287",
+            "target": "75109965520873170119"
+        },
+        {
+            "source": "1570137287",
+            "target": "17213889108589990761612043889464466449607"
+        },
+        {
+            "source": "105653098726240450701",
+            "target": "13906241951604335815797416765335741372"
+        },
+        {
+            "source": "105653098726240450701",
+            "target": "136926426593573285790700"
+        },
+        {
+            "source": "105653098726240450701",
+            "target": "177456648865271303787860080"
+        },
+        {
+            "source": "105653098726240450701",
+            "target": "6388439359149767195669629536"
+        },
+        {
+            "source": "105653098726240450701",
+            "target": "229983816929392016650836544852"
+        },
+        {
+            "source": "1570137287",
+            "target": "3818424926077637076167"
+        },
+        {
+            "source": "6388439359149767195669629536",
+            "target": "1570137287"
+        },
+        {
+            "source": "1570137287",
+            "target": "226102438533149490581054663"
+        },
+        {
+            "source": "136926426593573285790700",
+            "target": "234649222552262241671858409"
+        },
+        {
+            "source": "1570137287",
+            "target": "6919396064380284407882951"
+        }
+    ],
+    "nodes": [
+        {
+            "id": "77324695961562709206215",
+            "path": "/floresta/Classes-no-Python",
+            "label": "Classes no python"
+        },
+        {
+            "id": "284800224663625767126802139753040815303",
+            "path": "/floresta/Condi%C3%A7%C3%B5es-(Conditions)-no-Python",
+            "label": "Condições (conditions) no python"
+        },
+        {
+            "id": "505279871103820855055123998436125387549287623",
+            "path": "/floresta/Decoradores-(decorators)-no-Python",
+            "label": "Decoradores (decorators) no python"
+        },
+        {
+            "id": "41170370762284",
+            "path": "/floresta/Elden-Ring",
+            "label": "Elden ring"
+        },
+        {
+            "id": "2546142928029635814599",
+            "path": "/floresta/Exce%C3%A7%C3%B5es-no-Python",
+            "label": "Exceções no python"
+        },
+        {
+            "id": "3449292428137996330543396",
+            "path": "/floresta/Floresta-de-ideias",
+            "label": "Floresta de ideias"
+        },
+        {
+            "id": "352230524392847223778796624145708983495",
+            "path": "/floresta/Formatando-Strings-no-Python",
+            "label": "Formatando strings no python"
+        },
+        {
+            "id": "36145153850674430910591786363875543176939675365385415",
+            "path": "/floresta/Fun%C3%A7%C3%B5es-Lambda-(lambda-functions)-no-Python",
+            "label": "Funções lambda (lambda functions) no python"
+        },
+        {
+            "id": "75109965520873170119",
+            "path": "/floresta/Fun%C3%A7%C3%B5es-no-Python",
+            "label": "Funções no python"
+        },
+        {
+            "id": "17213889108589990761612043889464466449607",
+            "path": "/floresta/La%C3%A7os-de-repeti%C3%A7%C3%A3o-(loops)-no-Python",
+            "label": "Laços de repetição (loops) no python"
+        },
+        {
+            "id": "105653098726240450701",
+            "path": "/floresta/Mapa-principal",
+            "label": "Mapa principal"
+        },
+        {
+            "id": "13906241951604335815797416765335741372",
+            "path": "/floresta/Mapa-sobre-jogos-eletr%C3%B4nicos",
+            "label": "Mapa sobre jogos eletrônicos"
+        },
+        {
+            "id": "136926426593573285790700",
+            "path": "/floresta/Mapa-sobre-livros",
+            "label": "Mapa sobre livros"
+        },
+        {
+            "id": "177456648865271303787860080",
+            "path": "/floresta/Mapa-sobre-podcasts",
+            "label": "Mapa sobre podcasts"
+        },
+        {
+            "id": "6388439359149767195669629536",
+            "path": "/floresta/Mapa-sobre-programa%C3%A7%C3%A3o",
+            "label": "Mapa sobre programação"
+        },
+        {
+            "id": "229983816929392016650836544852",
+            "path": "/floresta/Mapa-sobre-tomar-notas",
+            "label": "Mapa sobre tomar notas"
+        },
+        {
+            "id": "3818424926077637076167",
+            "path": "/floresta/M%C3%B3dulos-no-Python",
+            "label": "Módulos no python"
+        },
+        {
+            "id": "1570137287",
+            "path": "/floresta/Python",
+            "label": "Python"
+        },
+        {
+            "id": "226102438533149490581054663",
+            "path": "/floresta/Sequ%C3%AAncias-no-Python",
+            "label": "Sequências no python"
+        },
+        {
+            "id": "234649222552262241671858409",
+            "path": "/floresta/The-meaning-of-it-all",
+            "label": "The meaning of it all"
+        },
+        {
+            "id":"691939606s
