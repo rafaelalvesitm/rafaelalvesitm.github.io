@@ -3,6 +3,9 @@
 # Website information
 title: Rafael Alves ITM
 author: Rafael Alves
+domain: rafaelalvesitm.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://rafaelalvesitm.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /
 
 # List of links in the navigation bar
 navbar-links:
