@@ -3,6 +3,7 @@
 # Website information including Jekyll SEO plugin information
 title: In The Making
 tagline: Site pessoal de Rafael Alves
+description: Site pessoal de Rafael Alves
 author: Rafael Alves
 domain: rafaelalvesitm.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://rafaelalvesitm.github.io  # the base hostname and protocol for your site, e.g. http://example.com
@@ -10,7 +11,6 @@ baseurl: /
 twitter:
   username: rafaelalvesitm
   card: summary
-  image: /assets/img/avatar.png
 logo: /assets/img/avatar.png
 social:
   name: Rafael Alves
@@ -80,17 +80,20 @@ defaults:
     values:
       layout: "post"
       social-share: true 
+      image: /assets/img/avatar.png
   -
     scope:
       path: ""
     values:
       layout: "page"
+      image: /assets/img/avatar.png
   -
     scope:
       path: "_notes/**/*.md"
     values:
       layout: "note"
       permalink: /floresta/:title
+      image: /assets/img/avatar.png
 
 # Exclude these files from production site
 exclude:
