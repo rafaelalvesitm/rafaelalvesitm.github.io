@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>In The Making</title>
+    
+    
+    <link>https://rafaelalvesitm.github.io/</link>
+    <atom:link href="https://rafaelalvesitm.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>Como criei este site?</title>
+        <description>
+          
+          Olá, sejam bem-vindos! Neste artigo eu vou contar para vocês como é que eu criei este site que vocês estão vendo. Então vem comigo! Background Eu sempre quis ter um site pessoal e a minha primeira tentativa foi utilizando o wix, que é uma ferramenta para construir sites com base...
+        </description>
+        <pubDate>Fri, 11 Mar 2022 00:00:00 -0300</pubDate>
+        <link>https://rafaelalvesitm.github.io/como-criei-este-site/</link>
+        <guid isPermaLink="true">https://rafaelalvesitm.github.io/como-criei-este-site/</guid>
+      </item>
+    
+      <item>
+        <title>Primeira postagem</title>
+        <description>
+          Por que ITM? - 
+          Olá pessoal, sejam em vindos a primeira postagem deste site/blog pessoal. Inicialmente vou explicar o motivo por trás da criação deste site. Eu tento todos os dias seguir o seguinte mantra: Hoje é um novo dia para aprender algo novo e fazer algo bom. Sendo assim este site simboliza o...
+        </description>
+        <pubDate>Mon, 21 Feb 2022 00:00:00 -0300</pubDate>
+        <link>https://rafaelalvesitm.github.io/primeira-postagem/</link>
+        <guid isPermaLink="true">https://rafaelalvesitm.github.io/primeira-postagem/</guid>
+      </item>
+    
+  </channel>
+</rss>
