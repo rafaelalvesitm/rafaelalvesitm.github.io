@@ -1,41 +1,47 @@
 <nav class="navbar navbar-expand-xl fixed-top navbar-custom top-nav-regular">
 
-  <a class="navbar-brand" href="{{ '' | absolute_url }}">{{ site.title }}</a>
-
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-
-  <div class="collapse navbar-collapse justify-content-end" id="main-navbar">
-    <ul class="navbar-nav">
-      {%- for link in site.navbar-links -%}
+  <div class="container-fluid">
+    
+    <a class="navbar-brand" href="{{ '' | absolute_url }}">{{ site.title }}</a>
+    
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
+      aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    
+    <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
+      <ul class="navbar-nav">
+        {%- for link in site.navbar-links -%}
         {%- if link[1].first %}
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ link[0] }}</a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              {%- for childlink in link[1] -%}
-                {%- for linkparts in childlink %}
-                  <a class="dropdown-item" href="{{ linkparts[1] | relative_url }}">{{ linkparts[0] }}</a>
-                {%- endfor -%}
-              {%- endfor %}
-            </div>
-          </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            {{ link[0] }}
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            {%- for childlink in link[1] -%}
+              {%- for linkparts in childlink %}
+              <li><a class="dropdown-item" href="{{ linkparts[1] | relative_url }}">{{ linkparts[0] }}</a></li>
+              {%- endfor -%}
+            {%- endfor %}
+          </ul>
+        </li>
         {% else %}
-          <li class="nav-item">
-            <a class="nav-link" href="{{ link[1] | relative_url }}">{{ link[0] }}</a>
-          </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{ link[1] | relative_url }}">{{ link[0] }}</a>
+        </li>
         {%- endif -%}
-      {%- endfor -%}
-    </ul>
+        {%- endfor -%}
+      </ul>
+    </div>
+
   </div>
-  
+
   <div class="avatar-container">
     <div class="avatar-img-border">
       <a href="{{ '' | absolute_url }}">
-        <img alt="In The Making avatar" class="rounded-circle" src="{{ '/assets/img/avatar.png' | relative_url }}" />
+        <img alt="Rafael Alves ITM avatar" class="rounded-circle" src="{{ '/assets/img/avatar.png' | relative_url }}" />
       </a>
     </div>
   </div>
-
 
 </nav>

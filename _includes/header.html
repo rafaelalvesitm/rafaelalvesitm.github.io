@@ -22,7 +22,7 @@
             {% if page.last-updated %}
             <span class="post-meta">
               <span class="d-none d-md-inline middot">&middot;</span>
-              Ultima atualização {{ page.last-updated | date: date_format }}
+              Ultima atualização {{ page.last-updated | date: date_format | locale: :'pt-BR' }}
             </span>
             {% endif %}
             {% endif %}
