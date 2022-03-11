@@ -12,3 +12,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 gem "webrick", "~> 1.7"
 gem "nokogiri"
 gem 'wdm', '>= 0.1.0'
+gem 'jekyll-seo-tag'

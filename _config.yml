@@ -1,11 +1,23 @@
 # --- Website information and Structure --- #
 
-# Website information
-title: Rafael Alves ITM
+# Website information including Jekyll SEO plugin information
+title: In The Making
+tagline: Site pessoal de Rafael Alves
 author: Rafael Alves
 domain: rafaelalvesitm.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://rafaelalvesitm.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /
+twitter:
+  username: rafaelalvesitm
+  card: summary
+logo: /assets/img/avatar.png
+social:
+  name: Rafael Alves
+  links:
+    - https://twitter.com/rafaelalvesitm
+    - https://www.linkedin.com/in/rafaelalvesitm
+    - https://github.com/rafaelalvesitm
+locale: pt_BR
 
 # List of links in the navigation bar
 navbar-links:
@@ -93,6 +105,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-last-modified-at
+  - jekyll-seo-tag
 
 language: pt-BR
 
