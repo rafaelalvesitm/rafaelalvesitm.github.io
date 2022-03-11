@@ -8,7 +8,6 @@ author: Rafael Alves
 domain: rafaelalvesitm.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://rafaelalvesitm.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 image: /assets/img/avatar.png
-baseurl: /
 twitter:
   username: rafaelalvesitm
   card: summary
